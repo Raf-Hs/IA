@@ -10,9 +10,6 @@ Proyectos
 Inicio del Contenedor
 
 Para iniciar el contenedor, utiliza los siguientes comandos:
-
-bash
-
 docker/run.sh
 docker/run.sh --volume ~/Container-Local:/jetson-inference/Container-Local
 
