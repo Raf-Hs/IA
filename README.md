@@ -83,3 +83,21 @@ Otros Comandos Útiles
     Comando para copiar una carpeta: cp -r original copia
     Ver el archivo más reciente: ls -l | grep "^-" | wc -l
     Comando para dar permisos a una carpeta: sudo chmod -R a+rwx Container-Local
+
+
+Entrenar en la nube
+https://colab.research.google.com/drive/1PrzHKE0yKtyGWIlWIC5OAZv4ywMGDDTZ?usp=sharing&authuser=1#scrollTo=gZiEinfkhkN5
+
+
+
+Link SUPER IMPORTANTE:
+https://www.youtube.com/playlist?list=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG
+
+Links Importantes:
+https://www.youtube.com/watch?v=kJpLMBqNcIQ&list=PLqaSgiaPItQ8cghhVgEl5Jf3X7sxKdRUB&index=3&ab_channel=KevinMcAleer
+https://www.youtube.com/watch?v=2XMkPW_sIGg&list=PLqaSgiaPItQ8cghhVgEl5Jf3X7sxKdRUB&index=3&ab_channel=NVIDIADeveloper
+https://www.youtube.com/watch?v=iX_on3VxZzk&list=PLZ8REt5zt2Pn0vfJjTAPaDVSACDvnuGiG&ab_channel=RingaTech
+
+https://github.com/dusty-nv/jetson-inference?tab=readme-ov-file
+https://storage.googleapis.com/openimages/web/visualizer/index.html
+https://elevenlabs.io/
